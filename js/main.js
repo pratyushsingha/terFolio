@@ -29,7 +29,7 @@ function enterKey(e) {
       commands.push(command.innerHTML);
       git = commands.length;
       addLine(
-        "prithvi@vaio-VPCCW16FG:~$" + command.innerHTML,
+        "pratyush@Pratyush04:~/Desktop/portfolio (main)$" + command.innerHTML,
         "no-animation",
         0
       );
@@ -63,10 +63,6 @@ function commander(cmd) {
       loopLines(aboutme, "color2 margin", 80);
       break;
 
-    case "DEV":
-      addLine("Opening Dev.to...", "color2", 80);
-      newTab(Dev);
-      break;
 
     case "social":
       loopLines(social, "color2 margin", 80);
@@ -82,7 +78,7 @@ function commander(cmd) {
       break;
     case "email":
       addLine(
-        'Opening mailto:<a href="mailto:yewaleprithvi2003@gmail.com"> yewaleprithvi2003@gmail.com</a>...',
+        'Opening mailto:<a href="mailto:pratyushsingha83@gmail.com"> pratyushsingha83@gmail.com</a>...',
         "color2",
         80
       );
@@ -101,10 +97,6 @@ function commander(cmd) {
       loopLines(banner, "", 80);
       break;
     // socials
-    case "dev":
-      addLine("Opening Dev.to...", "color2", 80);
-      newTab(dev);
-      break;
     case "twitter":
       addLine("Opening Twitter...", "color2", 0);
       newTab(twitter);

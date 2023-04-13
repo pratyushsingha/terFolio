@@ -1314,6 +1314,12 @@ body {
   }
 }
 
+@media only screen and (min-width: 720px) {
+  .ascii {
+    font-size: 9px;
+  }
+}
+
 @media only screen and (min-width: 810px) {
   .ascii {
     font-size: 17px;

@@ -1258,21 +1258,26 @@ body {
   text-size-adjust: auto;
   overflow-x: hidden;
 }
+@media only screen and (min-width: 320px) {
+  .ascii {
+    font-size:6px;
+  }
+}
 @media only screen and (min-width: 360px) {
   .ascii {
-    font-size:9px;
+    font-size:7px;
   }
 }
 
 @media only screen and (min-width: 375px) {
   .ascii {
-    font-size: 10px;
+    font-size: 7px;
   }
 }
 
 @media only screen and (min-width: 413px) {
   .ascii {
-    font-size: 12px;
+    font-size: 8px;
   }
 }
 
@@ -1284,13 +1289,18 @@ body {
 
 @media only screen and (min-width: 591px) {
   .ascii {
-    font-size: 18px;
+    font-size: 8px;
+  }
+}
+@media only screen and (min-width: 577px) {
+  .ascii {
+    font-size: 8px;
   }
 }
 
 @media only screen and (min-width: 621px) {
   .ascii {
-    font-size: 18.5px;
+    font-size: 10px;
   }
 }
 
@@ -1302,13 +1312,13 @@ body {
 
 @media only screen and (min-width: 815px) {
   .ascii {
-    font-size: 19px;
+    font-size: 13px;
   }
 }
 
 @media only screen and (min-width: 1024px) {
   .ascii {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -1515,5 +1525,9 @@ a:focus {
   }
 }
 
+pre {display: inline-block}
+pre#normal {font-size: 100%}
+pre#smaller {font-size: 50%}
+pre#smallest {font-size: 20%}
 
 

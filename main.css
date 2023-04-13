@@ -1283,7 +1283,7 @@ body {
 
 @media only screen and (min-width: 522px) {
   .ascii {
-    font-size: 15px;
+    font-size: 10px;
   }
 }
 
@@ -1297,6 +1297,16 @@ body {
     font-size: 8px;
   }
 }
+@media only screen and (min-width: 574px) {
+  .ascii {
+    font-size: 10px;
+  }
+}
+@media only screen and (min-width: 549px) {
+  .ascii {
+    font-size: 10px;
+  }
+}
 
 @media only screen and (min-width: 621px) {
   .ascii {
@@ -1304,9 +1314,15 @@ body {
   }
 }
 
+@media only screen and (min-width: 720px) {
+  .ascii {
+    font-size: 10px;
+  }
+}
+
 @media only screen and (min-width: 810px) {
   .ascii {
-    font-size: 17px;
+    font-size: 10px;
   }
 }
 

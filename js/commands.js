@@ -1,7 +1,7 @@
 
 var twitter = "https://twitter.com/_being_pratyush";
 var linkedin = "https://www.linkedin.com/in/pratyushsingha/";
-var instagram = "https://www.instagram.com/_i_am_pratyush0/";
+var instagram = "https://www.instagram.com/_i_am_pratyush04/";
 var github = "https://github.com/pratyushsingha";
 var sudo = "https://www.youtube.com/watch?v=b-K4oDRk04M";
 var email = "mailto:pratyushsingha83@gmail.com";
@@ -153,7 +153,7 @@ help = [
   <span class="command">help</span>       
    <span class="command">↳</span>&nbsp;Displays this help msg.
   <span class="command">sudo</span>       
-   <span class="command">↳</span>&nbsp;Try it out for yourself.
+   <span class="command">↳</span>&nbsp;let's give an intro.
   <span class="command">clear</span>
    <span class="command">↳</span>&nbsp;Clear terminal.</pre><br>`,
 ];

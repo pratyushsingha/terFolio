@@ -27,7 +27,7 @@ aboutme = [
    *Try using a social command.`,
   `<li><pre class="whitespace-pre-wrap">👨‍💻 Check out my github profile to view my projects
    *Use the github command to take a look at my GitHub profile.`,
-  `<li>📫 Contact me at <a href= "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pratyushsingha83@gmail.com">pratyushsingha83@gmail.com</a>`,
+  `<li>📫 Contact me at <a href= "mailto:pratyushsingha83@gmail.com">pratyushsingha83@gmail.com</a>`,
   "<br>",
 ];
 

@@ -3,6 +3,7 @@ var twitter = "https://twitter.com/_being_pratyush";
 var linkedin = "https://www.linkedin.com/in/pratyushsingha/";
 var instagram = "https://www.instagram.com/_i_am_pratyush04/";
 var github = "https://github.com/pratyushsingha";
+var hackerrank = "https://www.hackerrank.com/pratyushsingha83";
 var sudo = "https://www.youtube.com/embed/MGs2up1f1ug";
 var email = "mailto:pratyushsingha83@gmail.com";
 
@@ -33,21 +34,25 @@ aboutme = [
 
 social = [
   "<br>",
-  'twitter        <a href="' +
+  'Twitter        <a href="' +
   twitter +
-  '" target="blank">twitter.com/_being_pratyush' +
+  '" target="blank">twitter.com/pratyushsingha' +
   "</a>",
-  'linkedin       <a href="' +
+  'Linkedin      <a href="' +
   linkedin +
   '" target="blank">linkedin/pratyushsingha' +
   "</a>",
-  'instagram      <a href="' +
+  'Instagram  <a href="' +
   instagram +
-  '" target="blank">instagram/_i_am_pratyush04' +
+  '" target="blank">instagram/pratyushsingha' +
   "</a>",
-  'github         <a href="' +
+  'Github         <a href="' +
   github +
   '" target="blank">github/pratyushsingha' +
+  "</a>",
+  'Hackerrank  <a href="' +
+  hackerrank +
+  '" target="blank">hackerrank/pratyushsingha' +
   "</a>",
 
   "<br>",
@@ -55,18 +60,26 @@ social = [
 
 expertise =[
   "<br>",
-   `*C`,
-  `*Java`,
-   `*HTML5`,
-   `*Tailwind CSS`,
-   `*Javascript`,
-   `*React`,
-   `*Git(Versions Control)`,
-   `*Linux`,
-   `*Web Hosting(Azure, Vercel, Netlify,Digital Ocean)`,
-   "<br>",
+  `<pre class="whitespace-pre-wrap skills">
+  - C,</pre>`,
+  `<pre class="whitespace-pre-wrap skills">
+  - Java,</pre>`,
+  `<pre class="whitespace-pre-wrap skills">
+  - HTML5,</pre>`,
+  `<pre class="whitespace-pre-wrap skills">
+  - Tailwind CSS,</pre>`,
+  `<pre class="whitespace-pre-wrap skills">
+  - React,</pre>`,
+  `<pre class="whitespace-pre-wrap skills">
+  - Git(Versions Control),</pre>`,
+  `<pre class="whitespace-pre-wrap skills">
+  - Linux,</pre>`,
+  `<pre class="whitespace-pre-wrap skills">
+  - Web Hosting(Azure, Vercel, Netlify,Digital Ocean)</pre>`,
+  "<br>"
    
 ];
+
 
 projects = [
   "<br>",
@@ -159,7 +172,7 @@ help = [
    <span class="command">↳</span>&nbsp;Diplays Who I am?
   <span class="command">social</span>     
    <span class="command">↳</span>&nbsp;Lists social networks.
-  <span class="command">expertise</span>     
+  <span class="command">skills</span>     
    <span class="command">↳</span>&nbsp;Skills on tech.
   <span class="command">projects</span>   
    <span class="command">↳</span>&nbsp;View coding projects.

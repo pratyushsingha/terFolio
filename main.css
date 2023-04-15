@@ -827,6 +827,9 @@ video {
 .whitespace-pre-wrap {
   white-space: pre-wrap;
 }
+.skills:hover{
+  color:#55FF55
+}
 .break-words {
   overflow-wrap: break-word;
 }

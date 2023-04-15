@@ -1,9 +1,10 @@
 
 var twitter = "https://twitter.com/_being_pratyush";
 var linkedin = "https://www.linkedin.com/in/pratyushsingha/";
-var instagram = "https://www.instagram.com/_i_am_pratyush0/";
+var instagram = "https://www.instagram.com/_i_am_pratyush04/";
 var github = "https://github.com/pratyushsingha";
-var sudo = "https://www.youtube.com/watch?v=b-K4oDRk04M";
+var hackerrank = "https://www.hackerrank.com/pratyushsingha83";
+var sudo = "https://www.youtube.com/embed/tgbNymZ7vqY";
 var email = "mailto:pratyushsingha83@gmail.com";
 
 aboutme = [
@@ -27,31 +28,58 @@ aboutme = [
    *Try using a social command.`,
   `<li><pre class="whitespace-pre-wrap">👨‍💻 Check out my github profile to view my projects
    *Use the github command to take a look at my GitHub profile.`,
-  `<li>📫 Contact me at <a href= "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbjrwqPZkmfwhzfnBVNpwTzMHMBDRbmKlckrRWhsqmvJqhNKwBBrXVFzCkHvsHdrDXxNV">pratyushsingha83@gmail.com</a>`,
+  `<li>📫 Contact me at <a href= "mailto:pratyushsingha83@gmail.com">pratyushsingha83@gmail.com</a>`,
   "<br>",
 ];
 
 social = [
   "<br>",
-  'twitter        <a href="' +
+  'Twitter        <a href="' +
   twitter +
-  '" target="blank">twitter.com/_being_pratyush' +
+  '" target="blank">twitter.com/pratyushsingha' +
   "</a>",
-  'linkedin       <a href="' +
+  'Linkedin      <a href="' +
   linkedin +
   '" target="blank">linkedin/pratyushsingha' +
   "</a>",
-  'instagram      <a href="' +
+  'Instagram  <a href="' +
   instagram +
-  '" target="blank">instagram/_i_am_pratyush04' +
+  '" target="blank">instagram/pratyushsingha' +
   "</a>",
-  'github         <a href="' +
+  'Github         <a href="' +
   github +
   '" target="blank">github/pratyushsingha' +
+  "</a>",
+  'Hackerrank  <a href="' +
+  hackerrank +
+  '" target="blank">hackerrank/pratyushsingha' +
   "</a>",
 
   "<br>",
 ];
+
+expertise =[
+  "<br>",
+  `<pre class="whitespace-pre-wrap skills">
+  - C,</pre>`,
+  `<pre class="whitespace-pre-wrap skills">
+  - Java,</pre>`,
+  `<pre class="whitespace-pre-wrap skills">
+  - HTML5,</pre>`,
+  `<pre class="whitespace-pre-wrap skills">
+  - Tailwind CSS,</pre>`,
+  `<pre class="whitespace-pre-wrap skills">
+  - React,</pre>`,
+  `<pre class="whitespace-pre-wrap skills">
+  - Git(Versions Control),</pre>`,
+  `<pre class="whitespace-pre-wrap skills">
+  - Linux,</pre>`,
+  `<pre class="whitespace-pre-wrap skills">
+  - Web Hosting(Azure, Vercel, Netlify,Digital Ocean)</pre>`,
+  "<br>"
+   
+];
+
 
 projects = [
   "<br>",
@@ -72,7 +100,7 @@ Built With
 
   `<a href="https://github.com/pratyushsingha/jisClone" target="blank"><span class='underline'>JIS Clone</span>`,
   "<br>",
-  `<pre class="indent-8 whitespace-pre-wrap">This is the fronend clone of <a href="https://www.jisuniversity.ac.in/" target="blank"><span class='underline'>JIS UNIVERSITY</span></a> landing page with tailwind css
+  `<pre class="indent-8 whitespace-pre-wrap">This is the frontend clone of <a href="https://www.jisuniversity.ac.in/" target="blank"><span class='underline'>JIS UNIVERSITY</span></a> landing page with tailwind css
 
 Project is live here <a href="https://jis-clone.vercel.app/" target="blank">https://jis-clone.vercel.app/</a>
 
@@ -144,16 +172,18 @@ help = [
    <span class="command">↳</span>&nbsp;Diplays Who I am?
   <span class="command">social</span>     
    <span class="command">↳</span>&nbsp;Lists social networks.
+  <span class="command">skills</span>     
+   <span class="command">↳</span>&nbsp;Skills on tech.
   <span class="command">projects</span>   
    <span class="command">↳</span>&nbsp;View coding projects.
   <span class="command">email</span>      
-   <span class="command">↳</span>&nbsp;To send me a email.
+   <span class="command">↳</span>&nbsp;Let's colaborate.
   <span class="command">history</span>    
    <span class="command">↳</span>&nbsp;View command history.
   <span class="command">help</span>       
    <span class="command">↳</span>&nbsp;Displays this help msg.
   <span class="command">sudo</span>       
-   <span class="command">↳</span>&nbsp;Try it out for yourself.
+   <span class="command">↳</span>&nbsp;let's give an intro.
   <span class="command">clear</span>
    <span class="command">↳</span>&nbsp;Clear terminal.</pre><br>`,
 ];

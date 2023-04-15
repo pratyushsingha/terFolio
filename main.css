@@ -827,6 +827,16 @@ video {
 .whitespace-pre-wrap {
   white-space: pre-wrap;
 }
+.skills:hover{
+  background-color: #55FF55;
+  color: black;
+  cursor:pointer;
+}
+.anciiGreen:hover{
+  color:#55FF55;
+  cursor:pointer;
+  
+}
 .break-words {
   overflow-wrap: break-word;
 }
@@ -1263,17 +1273,13 @@ body {
     font-size:6px;
   }
 }
-@media only screen and (min-width: 360px) {
-  .ascii {
-    font-size:7px;
-  }
-}
 
 @media only screen and (min-width: 375px) {
   .ascii {
-    font-size: 7px;
+    font-size: 6px;
   }
 }
+
 
 @media only screen and (min-width: 413px) {
   .ascii {
@@ -1319,11 +1325,7 @@ body {
   }
 }
 
-@media only screen and (min-width: 720px) {
-  .ascii {
-    font-size: 10px;
-  }
-}
+
 
 @media only screen and (min-width: 810px) {
   .ascii {
@@ -1480,7 +1482,7 @@ a {
 }
 
 a:hover {
-  background: #73abad;
+  background: #55FF55;
   color: #211830;
 }
 a:focus {

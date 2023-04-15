@@ -5,9 +5,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Portfolio | terminal Welcome to my portfolio! — Type help for a list of supported commands.">
-  <meta name="keywords" content="pratyush, pratyushsingha, portfolio, HTML, CSS, prithvi_yewale">
+  <meta name="keywords" content="pratyush, pratyushsingha, portfolio, HTML, CSS, portfolio cli, pratyush singha, pratyushsingha portfolio, pratyushsingha terfolio portfolio">
   <meta name="author" content="pratyush singha">
-  <meta http-equiv="refresh" content="250">
   <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon" />
   <link href="main.css" rel="stylesheet" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -24,25 +23,6 @@
   src="https://code.jquery.com/jquery-3.6.1.js"
   integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI="
   crossorigin="anonymous"></script>
-  <script type="text/javascript">
-   
-    $.getJSON('https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=prithvijeet&api_key=88014e31fee3feab453dcef4f428e4dc&format=json',
-
-      function (data) {
-        let artist = document.getElementById("song")
-        let name = document.getElementById("track")
-
-        track = $(".track"),
-          artistVal = data.recenttracks.track[0].artist["#text"],
-          trackVal = data.recenttracks.track[0].name;
-
-
-        artist.append(artistVal);
-        name.append(trackVal);
-
-
-      });
-
   </script>
   <title>Pratyush Singha-portfolio CLI</title>
 </head>
@@ -64,34 +44,20 @@
       <div class="p-4">
         <div class="flex flex-col md:flex-row">
           <pre
-            class="ascii pt-1 pb-9 prose lg:prose-xl sm:font-medium whitespace-pre-wrap inline-block break-words leading-none">
-
-            
+            class="ascii anciiGreen hover:bg-[#55FF55] pt-1 pb-9 prose lg:prose-xl sm:font-medium whitespace-pre-wrap inline-block break-words leading-none" id="pratyush">
 ██████╗░██████╗░░█████╗░████████╗██╗░░░██╗██╗░░░██╗░██████╗██╗░░██╗
 ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝╚██╗░██╔╝██║░░░██║██╔════╝██║░░██║
 ██████╔╝██████╔╝███████║░░░██║░░░░╚████╔╝░██║░░░██║╚█████╗░███████║
 ██╔═══╝░██╔══██╗██╔══██║░░░██║░░░░░╚██╔╝░░██║░░░██║░╚═══██╗██╔══██║
 ██║░░░░░██║░░██║██║░░██║░░░██║░░░░░░██║░░░╚██████╔╝██████╔╝██║░░██║
 ╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░░░░╚═╝░░░░╚═════╝░╚═════╝░╚═╝░░╚═╝
-
             </pre>
-            <!-- <pre class="hidden sm:pb-9 sm:pt-1 whitespace-pre-wrap inline-block break-words leading-none">
-              ,          .  
-              ._ ._. _.-+-  .. . __|_ 
-              [_)[  (_] | \_|(_|_) [ )
-              |           ._|         
-            </pre> -->
           <div class="pl-2 float-right" ; style="font-family: 'Ubuntu', sans-serif;">
             <div class="text-[#7AE0CA] md:text-[16px] text-[15px]"><i
                 class="fa-solid fa-address-card pr-[0.9rem]"></i>Pratyush Singha
               <pre class="text-[#8DE2D0]">-------------------</pre>
 
             </div>
-
-            <!-- <a href="#">
-              <div class="text-[#7AE0CA] text-[15.3px]"><i
-                  class="fa-solid fa-file-invoice pr-[1rem] justify-items-start"></i>Resume<a href="#"
-                  class="text-[14.5px] p-1">→ &nbsp;404 :) Still curating...</a></div> -->
               <a href="https://github.com/pratyushsingha" target="blank">
                 <div class="text-[#7AE0CA] text-[15.3px]"><i
                     class="fa-brands fa-github pr-[0.7rem] justify-items-start"></i>Github<a
@@ -104,14 +70,18 @@
                       &nbsp;twitter/_being_pratyush</a></div>
                   <a href="https://www.linkedin.com/in/pratyushsingha/" target="blank">
                     <div class="text-[#7AE0CA] text-[15.3px]"><i
-                        class="fa-brands fa-linkedin-in pr-[0.9rem] justify-items-start"></i>Linkedin<a
+                        class="fa-brands fa-linkedin-in pr-[0.7rem] justify-items-start"></i>Linkedin<a
                         href="https://www.linkedin.com/in/pratyushsingha/" target="blank"
                         class="text-[14.5px] p-1">→ &nbsp;linkedin/in/pratyushsingha</a></div>
                     <a href="https://www.instagram.com/_i_am_pratyush04/" target="blank">
                       <div class="text-[#7AE0CA] text-[15.3px]"><i
-                          class="fa-brands fa-instagram pr-[0.9rem] justify-items-start"></i>Instagram<a
+                          class="fa-brands fa-instagram pr-[0.7rem] justify-items-start"></i>Instagram<a
                           href="https://www.instagram.com/_i_am_pratyush04/" target="blank" class="text-[14.5px] p-1">→
-                          &nbsp;instagram/_i_am_pratyush04/</a></div>
+                          &nbsp;instagram/pratyushsingha</a></div>
+                    <a href="https://www.hackerrank.com/pratyushsingha83" target="blank">
+                      <div class="text-[#7AE0CA] text-[15px]"><i class="fa-brands fa-hackerrank pr-[0.7rem]"></i>Hackerrank<a
+                          href="https://www.hackerrank.com/pratyushsingha83" target="blank" class="text-[14.5px] p-1">→
+                          &nbsp;hackerrank/pratyushsingha</a></div>
                       
           </div>
         </div>
@@ -126,26 +96,12 @@
       
           </div>
         </div>
-        <footer class="md:pt-[11%] pt-[50%]">
-          <!-- <div
-            class="p-2  bg-[#061826a7] border-[#7AE0CA] border rounded-[4px] w-full md:w-max float-right relative bottom-4 ">
-            <div class="flex flex-row p-1">
-               <a href="https://open.spotify.com/user/hujjcueiis2t6210i0xvfvfsf"><i class="fa-brands fa-spotify  animate-none md:animate-spin md:text-[5rem] text-[3rem] "
-                style="animation-duration: 12s;"></i>
-              <div class="">
-                <div class="flex md:flex-col flex-row pl-2 text-[15px] md:text-[17px]">Now Listening
-                  to......&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-                  <div class="underline text-[15px] md:text-[17px]">
-                    <div class=”artist” id="track">Track: </div>
-                    <div class="text-[15px] md:text-[17px]"></div>
-                    <div class=”track” id="song">Artist: </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div> -->
-          <br />github:~ <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/pratyushsingha/terfolio"
-                    rel="dct:source">github.com/pratyushsingha/terfolio</a></div></div>                                     
+        <!-- <footer class="flex justify-end items-end"> -->
+          <!-- <br />github:~ <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/pratyushsingha/terfolio"
+                    rel="dct:source">github.com/pratyushsingha/terfolio</a></div></div>                                      -->
+                    <!-- <a href="https://github.com/pratyushsingha/terfolio"
+                    <i class="fa-brands fa-github pr-[0.7rem] flex justify-end items-end">
+                  </i></a> -->
         </footer>
       <div>
     

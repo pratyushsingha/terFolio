@@ -828,6 +828,11 @@ video {
   white-space: pre-wrap;
 }
 .skills:hover{
+  background-color: #55FF55;
+  color: black;
+  cursor:pointer;
+}
+anciihover:hover{
   color:#55FF55
 }
 .break-words {

@@ -16,8 +16,7 @@ This is my Personal Linux Terminal Themed Portfolio Website With Html5 & Tailwin
 
 ## Demo
 
-![Portfolio](https://i.postimg.cc/nhsnVHgH/Screenshot-from-2023-04-15-23-12-18.png
-)
+![Portfolio](https://i.postimg.cc/nhsnVHgH/Screenshot-from-2023-04-15-23-12-18.png)
 
 ### Responsive
 ![Responsive](https://i.postimg.cc/j2grK9hw/mobile-4.png

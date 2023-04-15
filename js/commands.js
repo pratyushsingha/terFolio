@@ -4,7 +4,7 @@ var linkedin = "https://www.linkedin.com/in/pratyushsingha/";
 var instagram = "https://www.instagram.com/_i_am_pratyush04/";
 var github = "https://github.com/pratyushsingha";
 var hackerrank = "https://www.hackerrank.com/pratyushsingha83";
-var sudo = "https://www.youtube.com/embed/MGs2up1f1ug";
+var sudo = "https://www.youtube.com/embed/tgbNymZ7vqY";
 var email = "mailto:pratyushsingha83@gmail.com";
 
 aboutme = [

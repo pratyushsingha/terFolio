@@ -3,7 +3,7 @@ var twitter = "https://twitter.com/_being_pratyush";
 var linkedin = "https://www.linkedin.com/in/pratyushsingha/";
 var instagram = "https://www.instagram.com/_i_am_pratyush04/";
 var github = "https://github.com/pratyushsingha";
-var sudo = "https://www.youtube.com/watch?v=b-K4oDRk04M";
+var sudo = "https://www.youtube.com/embed/MGs2up1f1ug";
 var email = "mailto:pratyushsingha83@gmail.com";
 
 aboutme = [
@@ -53,6 +53,21 @@ social = [
   "<br>",
 ];
 
+expertise =[
+  "<br>",
+   `*C`,
+  `*Java`,
+   `*HTML5`,
+   `*Tailwind CSS`,
+   `*Javascript`,
+   `*React`,
+   `*Git(Versions Control)`,
+   `*Linux`,
+   `*Web Hosting(Azure, Vercel, Netlify,Digital Ocean)`,
+   "<br>",
+   
+];
+
 projects = [
   "<br>",
   `<a href="https://github.com/pratyushsingha/microsoftClone" target="blank"><span class='underline'>Microsoft Clone</span>`,
@@ -72,7 +87,7 @@ Built With
 
   `<a href="https://github.com/pratyushsingha/jisClone" target="blank"><span class='underline'>JIS Clone</span>`,
   "<br>",
-  `<pre class="indent-8 whitespace-pre-wrap">This is the fronend clone of <a href="https://www.jisuniversity.ac.in/" target="blank"><span class='underline'>JIS UNIVERSITY</span></a> landing page with tailwind css
+  `<pre class="indent-8 whitespace-pre-wrap">This is the frontend clone of <a href="https://www.jisuniversity.ac.in/" target="blank"><span class='underline'>JIS UNIVERSITY</span></a> landing page with tailwind css
 
 Project is live here <a href="https://jis-clone.vercel.app/" target="blank">https://jis-clone.vercel.app/</a>
 
@@ -144,10 +159,12 @@ help = [
    <span class="command">↳</span>&nbsp;Diplays Who I am?
   <span class="command">social</span>     
    <span class="command">↳</span>&nbsp;Lists social networks.
+  <span class="command">expertise</span>     
+   <span class="command">↳</span>&nbsp;Skills on tech.
   <span class="command">projects</span>   
    <span class="command">↳</span>&nbsp;View coding projects.
   <span class="command">email</span>      
-   <span class="command">↳</span>&nbsp;To send me a email.
+   <span class="command">↳</span>&nbsp;Let's colaborate.
   <span class="command">history</span>    
    <span class="command">↳</span>&nbsp;View command history.
   <span class="command">help</span>       

@@ -68,6 +68,10 @@ function commander(cmd) {
       loopLines(social, "color2 margin", 80);
       break;
 
+    case "expertise":
+      loopLines(expertise, "color2 margin", 80);
+      break;
+
     case "projects":
       loopLines(projects, "color2 margin", 80);
       break;

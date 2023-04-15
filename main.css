@@ -835,6 +835,7 @@ video {
 .anciiGreen:hover{
   color:#55FF55;
   cursor:pointer;
+  
 }
 .break-words {
   overflow-wrap: break-word;

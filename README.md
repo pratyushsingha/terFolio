@@ -1,13 +1,7 @@
 
 # TerFolio
 
-This is my Personal Linux Terminal Themed Portfolio Website With Html5 & Tailwind CSS.
-
-
-
-
-
-
+This is My Personal Linux Terminal Themed Portfolio Website With HTML5 & Tailwind CSS.
 
 ## Deployment
 

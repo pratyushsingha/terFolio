@@ -29,7 +29,7 @@ function enterKey(e) {
       commands.push(command.innerHTML);
       git = commands.length;
       addLine(
-        "pratyush@Pratyush04:~/Desktop/portfolio (main)$" + command.innerHTML,
+        "pratyush@Pratyush04:~/Desktop/portfolio (main)$ " + command.innerHTML,
         "no-animation",
         0
       );

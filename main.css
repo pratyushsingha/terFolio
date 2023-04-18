@@ -1411,7 +1411,7 @@ body {
 }
 #liner::before {
   color: #519975;
-  content: "pratyush@Pratyush04:~/Desktop/portfolio (main)$";
+  content: "pratyush@Pratyush04:~/Desktop/portfolio (main) $";
 }
 
 @-webkit-keyframes show {

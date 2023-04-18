@@ -12,7 +12,7 @@ aboutme = [
   "<span class='underline'>Hey, I'm PRATYUSH!!!👋</span>",
   "<br>",
   "<li>🔭 I’m currently a first year student, pursuing B.Tech From JIS UNIVERSITY</li>",
-  "<li>🌱 My field of intetest are</li>",
+  "<li>🌱 My field of intetest is</li>",
   `<pre class="whitespace-pre-wrap">
         - Fullstack Development</pre>`,
   `<li><pre class="whitespace-pre-wrap">👯 I would love to work with anyone who wants to build a 
@@ -28,7 +28,7 @@ aboutme = [
    *Try using a social command.`,
   `<li><pre class="whitespace-pre-wrap">👨‍💻 Check out my github profile to view my projects
    *Use the github command to take a look at my GitHub profile.`,
-  `<li>📫 Contact me at <a href= "mailto:pratyushsingha83@gmail.com">pratyushsingha83@gmail.com</a>`,
+  `<li>📫 Contact me at <a href= "mailto:pratyushsingha83@gmail.com" target="_blank">pratyushsingha83@gmail.com</a>`,
   "<br>",
 ];
 
@@ -61,19 +61,19 @@ social = [
 expertise =[
   "<br>",
   `<pre class="whitespace-pre-wrap skills">
-  - C,</pre>`,
+  - C</pre>`,
   `<pre class="whitespace-pre-wrap skills">
-  - Java,</pre>`,
+  - Java</pre>`,
   `<pre class="whitespace-pre-wrap skills">
-  - HTML5,</pre>`,
+  - HTML5</pre>`,
   `<pre class="whitespace-pre-wrap skills">
-  - Tailwind CSS,</pre>`,
+  - Tailwind CSS</pre>`,
   `<pre class="whitespace-pre-wrap skills">
-  - React,</pre>`,
+  - React</pre>`,
   `<pre class="whitespace-pre-wrap skills">
-  - Git(Versions Control),</pre>`,
+  - Git(Versions Control)</pre>`,
   `<pre class="whitespace-pre-wrap skills">
-  - Linux,</pre>`,
+  - Linux</pre>`,
   `<pre class="whitespace-pre-wrap skills">
   - Web Hosting(Azure, Vercel, Netlify,Digital Ocean)</pre>`,
   "<br>"
@@ -164,6 +164,21 @@ Built With
 `,
 
   "<br>",
+
+  `<a href="https://github.com/pratyushsingha/convertCase" target="blank"><span class='underline'>Convert Case</span>`,
+  "<br>",
+  `<pre class="indent-8 whitespace-pre-wrap">a tool to convert text to different cases like UPPERCASE, lowercase, Title case, Sentence case etc.
+
+Project is live here <a href="https://cconvertcase.vercel.app/" target="blank">https://cconvertcase.vercel.app/</a>
+
+Built With
+
+    *Javascript
+    *React
+    *Vite
+`,
+
+  "<br>",
 ];
 
 help = [
@@ -188,5 +203,5 @@ help = [
    <span class="command">↳</span>&nbsp;Clear terminal.</pre><br>`,
 ];
 banner = [
-  `<div class="pt-2"><span class="text-[#7d82d7db] ">Welcome to my portfolio! — Type <span class="command text-[#75e1e7]">help</span> for a list of supported commands.</span></div>`,
+  `<div class="pt-2"><span class="text-[#7d82d7db] ">Welcome To My Portfolio! — Type <span class="command text-[#75e1e7]">help</span> For A List Of Supported Commands.</span></div>`,
 ];

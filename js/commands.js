@@ -169,7 +169,7 @@ Built With
   "<br>",
   `<pre class="indent-8 whitespace-pre-wrap">a tool to convert text to different cases like UPPERCASE, lowercase, Title case, Sentence case etc.
 
-Project is live here <a href="https://cconvertcase.vercel.app/" target="blank">https://cconvertcase.vercel.app/</a>
+Project is live here <a href="https://converttcase.vercel.app/" target="blank">https://cconvertcase.vercel.app/</a>
 
 Built With
 

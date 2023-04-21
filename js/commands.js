@@ -165,11 +165,11 @@ Built With
 
   "<br>",
 
-  `<a href="https://github.com/pratyushsingha/convertCase" target="blank"><span class='underline'>Convert Case</span>`,
+  `<a href="https://github.com/pratyushsingha/casemate" target="blank"><span class='underline'>CaseMate</span>`,
   "<br>",
   `<pre class="indent-8 whitespace-pre-wrap">a tool to convert text to different cases like UPPERCASE, lowercase, Title case, Sentence case etc.
 
-Project is live here <a href="https://converttcase.vercel.app/" target="blank">https://cconvertcase.vercel.app/</a>
+Project is live here <a href="https://converttcase.vercel.app/" target="blank">https://casemate.vercel.app/</a>
 
 Built With
 

@@ -87,7 +87,7 @@ projects = [
   "<br>",
   `<pre class="indent-8 whitespace-pre-wrap">A frontend full responsive Microsoft landing page Clone with tailwind css
 
-Project is live here <a href="https://microsoftclone-tau.vercel.app/" target="blank">https://microsoftclone-tau.vercel.app/</a>
+Project is live here <a href="https://microsoftclone-ivory.vercel.app/" target="blank">https://microsoftclone-ivory.vercel.app/</a>
 
 Built With
 

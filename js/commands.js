@@ -179,6 +179,47 @@ Built With
 `,
 
   "<br>",
+
+  `<a href="https://github.com/pratyushsingha/WeatherNow" target="blank"><span class='underline'>WeatherNow</span>`,
+  "<br>",
+  `<pre class="indent-8 whitespace-pre-wrap">WeatherNow - Real-Time Weather Reports & Forecasts.A react app made with weather api.
+
+Project is live here <a href="https://weathernowwwwwwwww.netlify.app/" target="blank">https://weathernowwwwwwwww.netlify.app/</a>
+
+Built With
+
+    *Rapid Api
+    *React
+    *Vite
+    *Tailwind CSS
+`,
+
+  "<br>",
+
+  `<a href="https://github.com/pratyushsingha/shruti-ai" target="blank"><span class='underline'>Shruti AI</span>`,
+  "<br>",
+  `<pre class="indent-8 whitespace-pre-wrap">Shruti AI - a fully SEO friendly chatbot powered by the GPT-3.5 architecture,
+  
+   capable of communicating with you using natural language processing and machine learning algorithms.
+
+   go to <a href="https://www.google.com/" target="_blank">google</a> and just type shruti-ai
+
+Project is live here <a href="https://shrutiai.vercel.app/" target="blank">https://shrutiai.vercel.app/</a>
+
+Author:
+
+    *<a href="https://github.com/DevyManish" target="blank"><span class='underline'>Manish Gupta</span></a>
+    *<a href="https://github.com/pratyushsingha" target="blank"><span class='underline'>Pratyush Singha</span></a>
+
+Built With
+
+    *Chatgpt Api
+    *React
+    *Vite
+    *Tailwind CSS
+`,
+
+  "<br>",
 ];
 
 help = [

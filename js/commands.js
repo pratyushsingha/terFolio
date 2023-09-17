@@ -11,7 +11,7 @@ aboutme = [
   "<br>",
   "<span class='underline'>Hey, I'm PRATYUSH!!!👋</span>",
   "<br>",
-  "<li>🔭 I’m currently a first year student, pursuing B.Tech From JIS UNIVERSITY</li>",
+  "<li>🔭 I’m currently a second year student, pursuing B.Tech From JIS UNIVERSITY</li>",
   "<li>🌱 My field of intetest is</li>",
   `<pre class="whitespace-pre-wrap">
         - Fullstack Development</pre>`,
@@ -20,7 +20,7 @@ aboutme = [
    website to showcase their portfolio.
    I love learning new stuff and using it to improve my skills.
    I primarily use React and Tailwind CSS when building my 
-   websites (projects).
+   webApps (projects).
    You can learn more about the projects that I have built using 
    the project command.
    You can browse around my website to find out more about 
@@ -58,7 +58,7 @@ social = [
   "<br>",
 ];
 
-expertise =[
+expertise = [
   "<br>",
   `<pre class="whitespace-pre-wrap skills">
   - C</pre>`,
@@ -77,7 +77,7 @@ expertise =[
   `<pre class="whitespace-pre-wrap skills">
   - Web Hosting(Azure, Vercel, Netlify,Digital Ocean)</pre>`,
   "<br>"
-   
+
 ];
 
 
@@ -143,28 +143,6 @@ Built With
 
   "<br>",
 
-  `<a href="https://github.com/pratyushsingha/tamasha_restaurant" target="blank"><span class='underline'>Tamasha Restaurant</span></a>`,
-  "<br>",
-  `<pre class="indent-8 whitespace-pre-wrap">This is a full stack restaurant website with voice assistant for physically challenged people to order their food.
-
-Author:
-
-    *<a href="https://github.com/DevyManish" target="blank"><span class='underline'>Manish Gupta</span></a>
-    *<a href="https://github.com/pratyushsingha" target="blank"><span class='underline'>Pratyush Singha</span></a>
-
-Project is live here <a href="#">In development</a>
-
-Built With
-
-    *HTML5
-    *Bootstrap
-    *javascript
-    *PHP
-    *MySQL
-`,
-
-  "<br>",
-
   `<a href="https://github.com/pratyushsingha/casemate" target="blank"><span class='underline'>CaseMate</span>`,
   "<br>",
   `<pre class="indent-8 whitespace-pre-wrap">a tool to convert text to different cases like UPPERCASE, lowercase, Title case, Sentence case etc.
@@ -196,7 +174,7 @@ Built With
 
   "<br>",
 
-  `<a href="https://github.com/pratyushsingha/shruti-ai" target="blank"><span class='underline'>Shruti AI</span>`,
+  `<a href="https://github.com/pratyushsingha/Shruti-AI" target="blank"><span class='underline'>Shruti AI</span>`,
   "<br>",
   `<pre class="indent-8 whitespace-pre-wrap">Shruti AI - a fully SEO friendly chatbot powered by the GPT-3.5 architecture,
   
@@ -204,26 +182,48 @@ Built With
 
    go to <a href="https://www.google.com/" target="_blank">google</a> and just type shruti-ai
 
-Project is live here <a href="https://shrutiai.vercel.app/" target="blank">https://shrutiai.vercel.app/</a>
-
-Author:
-
-    *<a href="https://github.com/DevyManish" target="blank"><span class='underline'>Manish Gupta</span></a>
-    *<a href="https://github.com/pratyushsingha" target="blank"><span class='underline'>Pratyush Singha</span></a>
+Project is live here <a href="https://shruti-ai-beta.vercel.app/" target="blank">https://shruti-ai-beta.vercel.app/</a>
 
 Built With
 
-    *Chatgpt Api
+    *Openai Api
     *React
-    *Vite
     *Tailwind CSS
 `,
 
   "<br>",
+
+  `<a href="https://github.com/pratyushsingha/Youtube-2.0" target="blank"><span class='underline'>Youtube@2.0</span>`,
+  "<br>",
+  `<pre class="indent-8 whitespace-pre-wrap">A youtube clone with category wise video, trending, search, video playing, like, share comment functionalities
+
+Project is live here <a href="https://youtubeclone-blond.vercel.app/" target="blank">https://youtubeclone-blond.vercel.app/</a>
+
+Built With
+
+    *Youtube Api
+    *Tailwind
+    *React
+
+`,
+
+  `<a href="https://github.com/pratyushsingha/githubClone" target="blank"><span class='underline'>Github Clone</span>`,
+  "<br>",
+  `<pre class="indent-8 whitespace-pre-wrap">This is a github clone using HTML,tailwindcss & javascript and using Github api
+
+Project is live here <a href="https://pratyushsingha.github.io/githubClone/" target="blank">https://pratyushsingha.github.io/githubClone/</a>
+
+Built With
+
+    *Github Api
+    *Tailwind
+    *Javascript
+
+    `,
 ];
 
 help = [
-  `<br><pre class="whitespace-pre-wrap">
+  `< br ><pre class="whitespace-pre-wrap">
   <span class="command">aboutme</span>    
    <span class="command">↳</span>&nbsp;Diplays Who I am?
   <span class="command">social</span>     
